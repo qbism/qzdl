@@ -17,8 +17,8 @@
  */
  
 #include <iostream>
-#include <QtGui>
-#include <QApplication>
+#include <QtWidgets>
+#include <QtWidgets/QApplication>
 #include "ZDLQSplitter.h"
 #include <QMetaObject>
 

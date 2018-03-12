@@ -16,8 +16,8 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QtGui>
-#include <QApplication>
+#include <QtWidgets>
+#include <QtWidgets/QApplication>
 #include <QComboBox>
 #include "ZDLMapFile.h"
 

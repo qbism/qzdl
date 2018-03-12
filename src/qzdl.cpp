@@ -16,9 +16,9 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#include <QtGui>
-#include <QApplication>
-#include <QMainWindow>
+#include <QtWidgets>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QMainWindow>
 #include <QDir>
 
 #include "ZDLConfigurationManager.h"

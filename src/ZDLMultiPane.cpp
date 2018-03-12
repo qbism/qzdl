@@ -17,8 +17,8 @@
  */
  
 
-#include <QtGui>
-#include <QApplication>
+#include <QtWidgets>
+#include <QtWidgets/QApplication>
 #include "ZDLConfigurationManager.h"
 #include "ZDLMultiPane.h"
 

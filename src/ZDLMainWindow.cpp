@@ -17,9 +17,9 @@
  */
 
 #include <iostream>
-#include <QtGui>
-#include <QApplication>
-#include <QMainWindow>
+#include <QtWidgets>
+#include <QtWidgets/QApplication>
+#include <QtWidgets/QMainWindow>
 
 #include "ZDLInterface.h"
 #include "ZDLMainWindow.h"
